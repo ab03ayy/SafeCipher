@@ -1,2 +1,2 @@
 # SafeCipher
-An advanced File encrypting and decrypting system controlled data access, and enhanced password management
+“SafeCipher” is a file security tool offering robust encryption, controlled data access, and enhanced password management. This project is built in C++ and empowers users to encrypt files securely, with a password required for decryption. The system ensures advanced password security using hashing and salting. Additional features include strong password verification and a file integrity system to maintain data reliability. With an intuitive interface, "SafeCipher" provides a comprehensive solution for individuals and organizations seeking effective and secure data protection.
